@@ -1,2 +1,2 @@
 # example
-study
+java
