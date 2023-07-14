@@ -1,3 +1,5 @@
 class Car {
-
+    fun printCar(){
+        
+    }
 }
